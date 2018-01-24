@@ -11,7 +11,7 @@ collections:
 description: 'Your description
 
 '
-baseurl: ''
+baseurl: 
 url: Your-Link.github.io
 markdown: kramdown
 facebook:
